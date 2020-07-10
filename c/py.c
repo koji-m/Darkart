@@ -1,4 +1,4 @@
-#include "/Library/Frameworks/Python.framework/Versions/3.7/include/python3.7m/Python.h"
+#include "/usr/include/python3.6m/Python.h"
 
 
 int _PyLong_Check(PyObject *p)
